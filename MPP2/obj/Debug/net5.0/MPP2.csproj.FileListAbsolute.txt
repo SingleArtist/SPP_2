@@ -1,0 +1,16 @@
+D:\UNIVERSITY\5 сем\спп\MPP_2\MPP2\MPP2\bin\Debug\net5.0\MPP2.exe
+D:\UNIVERSITY\5 сем\спп\MPP_2\MPP2\MPP2\bin\Debug\net5.0\MPP2.deps.json
+D:\UNIVERSITY\5 сем\спп\MPP_2\MPP2\MPP2\bin\Debug\net5.0\MPP2.runtimeconfig.json
+D:\UNIVERSITY\5 сем\спп\MPP_2\MPP2\MPP2\bin\Debug\net5.0\MPP2.runtimeconfig.dev.json
+D:\UNIVERSITY\5 сем\спп\MPP_2\MPP2\MPP2\bin\Debug\net5.0\MPP2.dll
+D:\UNIVERSITY\5 сем\спп\MPP_2\MPP2\MPP2\bin\Debug\net5.0\ref\MPP2.dll
+D:\UNIVERSITY\5 сем\спп\MPP_2\MPP2\MPP2\bin\Debug\net5.0\MPP2.pdb
+D:\UNIVERSITY\5 сем\спп\MPP_2\MPP2\MPP2\obj\Debug\net5.0\MPP2.csproj.AssemblyReference.cache
+D:\UNIVERSITY\5 сем\спп\MPP_2\MPP2\MPP2\obj\Debug\net5.0\MPP2.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSITY\5 сем\спп\MPP_2\MPP2\MPP2\obj\Debug\net5.0\MPP2.AssemblyInfoInputs.cache
+D:\UNIVERSITY\5 сем\спп\MPP_2\MPP2\MPP2\obj\Debug\net5.0\MPP2.AssemblyInfo.cs
+D:\UNIVERSITY\5 сем\спп\MPP_2\MPP2\MPP2\obj\Debug\net5.0\MPP2.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY\5 сем\спп\MPP_2\MPP2\MPP2\obj\Debug\net5.0\MPP2.dll
+D:\UNIVERSITY\5 сем\спп\MPP_2\MPP2\MPP2\obj\Debug\net5.0\ref\MPP2.dll
+D:\UNIVERSITY\5 сем\спп\MPP_2\MPP2\MPP2\obj\Debug\net5.0\MPP2.pdb
+D:\UNIVERSITY\5 сем\спп\MPP_2\MPP2\MPP2\obj\Debug\net5.0\MPP2.genruntimeconfig.cache
